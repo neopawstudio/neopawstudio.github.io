@@ -1,0 +1,2 @@
+# app-ads.txt NeoPaw Studio
+# Baris penjual dari dasbor AppLovin MAX akan ditambahkan di sini setelah akun aktif.
